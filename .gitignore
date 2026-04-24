@@ -31,3 +31,10 @@ tests/CDSChecker/model-checker/
 tests/relacy/freelist.exe
 tests/relacy/spmchash.exe
 tests/relacy/log.txt
+
+# wyvrnpm-generated — do not commit
+/build/
+/wyvrn_internal/
+/wyvrn.lock
+/CMakePresets.json
+/CMakeUserPresets.json
