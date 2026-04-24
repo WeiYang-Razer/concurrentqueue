@@ -1,0 +1,19 @@
+{
+  "name": "concurrentqueue",
+  "version": "1.0.5.0",
+  "schemaVersion": 2,
+  "kind": "HeaderOnlyLib",
+  "description": "TODO: one-line description of concurrentqueue",
+  "dependencies": {},
+  "build": {
+    "system": "cmake",
+    "configs": [
+      "Debug",
+      "Release",
+      "RelWithDebInfo",
+      "MinSizeRel"
+    ],
+    "configure": [],
+    "installDir": "install"
+  }
+}
